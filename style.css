@@ -23,7 +23,7 @@ header nav ul {
 }
 
 header nav ul li a {
-    font-family: "Montserrat";
+    font-family: 'Montserrat', sans-serif;;
     color: #fff;
     text-decoration: none;
     margin: 0 20px 0 0;
